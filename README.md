@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ilia Cepchin
 - 👀 I’m interested in Software Developing
 - 🌱 I’m currently learning MERN Stack
-- 💞️ I’m looking a job
+- 👨‍💻 I’m looking a job
 - 📫 How to reach me: https://www.linkedin.com/in/ilia-cepchin-4b6581214/
 
 <!---
